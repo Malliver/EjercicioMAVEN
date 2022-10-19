@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/nix/store/nfyj24p265scn3zp0pk0fm4rr5g7s2pf-graalvm17-ce-22.1.0/lib"/>
-    <property name="sun.java.command" value="/home/runner/EjercicioMAVEN/my-app/target/surefire/surefirebooter4943652387238699072.jar /home/runner/EjercicioMAVEN/my-app/target/surefire 2022-10-19T00-00-34_146-jvmRun1 surefire10380783646541046767tmp surefire_014797863731714061539tmp"/>
+    <property name="sun.java.command" value="/home/runner/EjercicioMAVEN/my-app/target/surefire/surefirebooter103633823850267038.jar /home/runner/EjercicioMAVEN/my-app/target/surefire 2022-10-19T00-33-32_928-jvmRun1 surefire13164892339103624673tmp surefire_017983275565382148965tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/runner/EjercicioMAVEN/my-app/target/test-classes:/home/runner/EjercicioMAVEN/my-app/target/classes:/home/runner/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/runner/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -28,7 +28,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/runner/EjercicioMAVEN/my-app/target/surefire/surefirebooter4943652387238699072.jar"/>
+    <property name="surefire.real.class.path" value="/home/runner/EjercicioMAVEN/my-app/target/surefire/surefirebooter103633823850267038.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.3+7-jvmci-22.1-b06"/>
     <property name="user.name" value="runner"/>
@@ -53,5 +53,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="probarTriangulo" classname="com.mycompany.app.AppTest" time="0.097"/>
+  <testcase name="probarTriangulo" classname="com.mycompany.app.AppTest" time="0.006"/>
 </testsuite>
