@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.599" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.402" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/runner/LastingUnsungDrawing/my-app/target/test-classes:/home/runner/LastingUnsungDrawing/my-app/target/classes:/home/runner/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/runner/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.class.path" value="/home/runner/EjercicioMAVEN/my-app/target/test-classes:/home/runner/EjercicioMAVEN/my-app/target/classes:/home/runner/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/runner/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="java.vm.vendor" value="GraalVM Community"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://www.graalvm.org/"/>
@@ -12,9 +12,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/nix/store/nfyj24p265scn3zp0pk0fm4rr5g7s2pf-graalvm17-ce-22.1.0/lib"/>
-    <property name="sun.java.command" value="/home/runner/LastingUnsungDrawing/my-app/target/surefire/surefirebooter13413382478971277131.jar /home/runner/LastingUnsungDrawing/my-app/target/surefire 2022-10-17T20-52-56_471-jvmRun1 surefire12154316521193315508tmp surefire_018347394197655615446tmp"/>
+    <property name="sun.java.command" value="/home/runner/EjercicioMAVEN/my-app/target/surefire/surefirebooter4943652387238699072.jar /home/runner/EjercicioMAVEN/my-app/target/surefire 2022-10-19T00-00-34_146-jvmRun1 surefire10380783646541046767tmp surefire_014797863731714061539tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/home/runner/LastingUnsungDrawing/my-app/target/test-classes:/home/runner/LastingUnsungDrawing/my-app/target/classes:/home/runner/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/runner/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="surefire.test.class.path" value="/home/runner/EjercicioMAVEN/my-app/target/test-classes:/home/runner/EjercicioMAVEN/my-app/target/classes:/home/runner/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/runner/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/runner"/>
     <property name="user.language" value="en"/>
@@ -22,13 +22,13 @@
     <property name="java.version.date" value="2022-04-19"/>
     <property name="java.home" value="/nix/store/nfyj24p265scn3zp0pk0fm4rr5g7s2pf-graalvm17-ce-22.1.0"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/home/runner/LastingUnsungDrawing/my-app"/>
+    <property name="basedir" value="/home/runner/EjercicioMAVEN/my-app"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="jdk.internal.vm.ci.enabled" value="true"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/runner/LastingUnsungDrawing/my-app/target/surefire/surefirebooter13413382478971277131.jar"/>
+    <property name="surefire.real.class.path" value="/home/runner/EjercicioMAVEN/my-app/target/surefire/surefirebooter4943652387238699072.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.3+7-jvmci-22.1-b06"/>
     <property name="user.name" value="runner"/>
@@ -42,7 +42,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/oracle/graal/issues"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="java.version" value="17.0.3"/>
-    <property name="user.dir" value="/home/runner/LastingUnsungDrawing/my-app"/>
+    <property name="user.dir" value="/home/runner/EjercicioMAVEN/my-app"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="native.encoding" value="UTF-8"/>
@@ -53,5 +53,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.032"/>
+  <testcase name="probarTriangulo" classname="com.mycompany.app.AppTest" time="0.097"/>
 </testsuite>
